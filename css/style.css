@@ -1066,11 +1066,11 @@ body {
   background-color: #fed100;
   height: 400px;
   padding: 0px 18px;
-  max-width: 1330px;
   margin: 0 auto;
 }
 
 .footer__wrap {
+  max-width: 1330px;
   width: 100%;
   padding: 113px 0;
   display: -webkit-box;
